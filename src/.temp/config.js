@@ -3,6 +3,6 @@ export default {
   "pathPrefix": "",
   "titleTemplate": "%s - Docc",
   "siteUrl": "https://example.com",
-  "version": "0.7.13",
+  "version": "0.7.19",
   "catchLinks": true
 }
