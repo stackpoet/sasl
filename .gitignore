@@ -5,6 +5,9 @@ npm-debug.log
 .env
 .DS_Store
 
+#gridsome
+dist
+
 # Logs
 logs
 *.log
